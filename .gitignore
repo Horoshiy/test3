@@ -1,0 +1,9 @@
+/.idea/
+/.gradle/
+/build/
+/debug.log
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/qa_guru_3_3.iml
